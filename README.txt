@@ -1,0 +1,1 @@
+Upload index.html (and header-logo.png if you want) to GitHub repo root, enable Pages (main / root).
